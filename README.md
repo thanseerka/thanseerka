@@ -12,8 +12,7 @@ Currently available for **freelance projects, contract work, and backend consult
 
 📍 Kochi, India · Remote
 📧 **[thanseerka03@gmail.com](mailto:thanseerka03@gmail.com)**
-🔗 **LinkedIn:** https://linkedin.com/in/thanseerka
-
+🔗 **LinkedIn:** www.linkedin.com/in/thanseerka
 ---
 
 ## 🚀 What I Help Companies Build
