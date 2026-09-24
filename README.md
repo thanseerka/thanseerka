@@ -2,13 +2,13 @@
 
 ### Senior Backend Engineer | Node.js · NestJS · TypeScript · Microservices · PostgreSQL · Kafka
 
-I’m a **Senior Backend Engineer with 7+ years of experience** building production-grade APIs, microservices, payment systems, and event-driven applications.
+**7+ years of production experience** building scalable APIs, microservices, payment systems, and event-driven applications.
 
-My core focus is **backend engineering with Node.js and NestJS**, with hands-on experience across PostgreSQL, MongoDB, Redis, Kafka, Docker, Kubernetes, AWS, and Azure.
+I specialize in **Node.js / NestJS backend engineering**, with hands-on experience across PostgreSQL, MongoDB, Redis, Kafka, Docker, Kubernetes, AWS, and Azure.
 
-I've worked on high-availability products involving **payments, authentication, background processing, search, notifications, API performance, and cloud deployments**.
+I've worked on production systems involving **payments, authentication, background processing, search, performance optimization, cloud deployments, and high-availability applications**.
 
-I'm currently open to **freelance projects, contract work, and backend engineering opportunities**.
+🚀 **Available for freelance & contract backend work**
 
 📍 Kochi, India · Remote-friendly
 📧 **[thanseerka03@gmail.com](mailto:thanseerka03@gmail.com)**
@@ -16,93 +16,38 @@ I'm currently open to **freelance projects, contract work, and backend engineeri
 
 ---
 
-## 🚀 What I Do
+## 💼 What I've Built
 
-### Backend Development
-
-* REST APIs with **Node.js / NestJS / Express**
-* TypeScript backend applications
-* Microservices and modular monoliths
-* PostgreSQL and MongoDB
-* Redis caching and background processing
-* API architecture and integration
-* Swagger / OpenAPI documentation
-
-### Event-Driven Architecture
-
-* Apache Kafka producers and consumers
-* RabbitMQ
-* Asynchronous workflows
-* Background jobs
-* Retry and failure handling
-* Event-driven microservices
-
-### Payment Systems
-
-* Stripe Payment Intents
-* Stripe webhooks
-* Payment and refund workflows
-* Receipt generation
-* Loyalty / reward point flows
-* N-Genius integrations
-
-### Cloud & DevOps
-
-* AWS Lambda
-* AWS S3
-* AWS Cognito
-* AWS SNS
-* AWS CloudWatch
-* Azure services
-* Docker & Docker Compose
-* Kubernetes
-* CI/CD pipelines
-* Nginx
-
-### Performance & Reliability
-
-* API latency investigation
-* Slow database query optimization
-* MongoDB aggregation optimization
-* Elasticsearch-based search
-* Memory and performance troubleshooting
-* Production monitoring and debugging
-* Datadog
-
-### AI Integrations
-
-* OpenAI API integrations
-* Claude API integrations
-* LLM-powered backend features
-* AI summarization
-* AI content generation
-* Chat APIs
-* Streaming LLM responses
-* Rate limiting and usage controls
+* 🏫 **Education Platform** — Backend services for a multi-school mobile education platform
+* 💳 **Payment Systems** — Stripe Payment Intents, webhooks, refunds, receipts and loyalty flows
+* ⚡ **Performance Optimization** — API latency, memory spikes, slow queries and production bottlenecks
+* 📨 **Event-Driven Systems** — Kafka, RabbitMQ and background processing
+* 🔎 **Search at Scale** — MongoDB aggregation and Elasticsearch
+* ☁️ **Cloud Systems** — AWS Lambda, Cognito, SNS, CloudWatch and Azure services
+* 🤖 **AI Integrations** — LLM-powered APIs, summarization, chat and content-generation workflows
 
 ---
 
-# 💼 Production Experience
+# 🏗️ Production Experience
 
-## 🏫 Education Platform — Dubai
+## 🏫 High-Availability Education Platform
 
-Worked on a mobile education platform supporting multiple schools in Dubai.
+Worked on a mobile education platform supporting **multiple schools in Dubai**, serving students, parents and teachers.
 
-The platform provides features for:
+The platform included:
 
-* Students
-* Parents
-* Teachers
+* Student academic records
 * Attendance
 * Assignments
 * Progress reports
 * Fee payments
 * Uniform purchasing
+* Payment processing
 
-### Backend responsibilities
+### My responsibilities
 
-* Designed and developed REST APIs
-* Built and maintained backend services
+* Designed and developed backend APIs
+* Built and maintained Node.js services
 * Worked on microservice architecture
 * API design and optimization
 * Sprint planning and task estimation
@@ -115,11 +60,11 @@ The backend ecosystem involved **Salesforce, MuleSoft APIs and Node.js services*
 
 ---
 
-## ⚡ Production Performance Optimization
+## ⚡ Production Performance & Reliability
 
 Investigated production issues involving **API hangs, increased latency and memory spikes**.
 
-Used application monitoring and APM metrics to investigate:
+Used application monitoring and APM data to investigate:
 
 * p95 / p99 latency
 * Memory usage
@@ -128,15 +73,15 @@ Used application monitoring and APM metrics to investigate:
 * Database performance
 * Request traces
 
-Worked on separating backend responsibilities into independent services to improve **scalability, fault isolation and maintainability**.
+Worked on separating backend responsibilities into independent services to improve **horizontal scalability, fault isolation and maintainability**.
 
 ---
 
 ## 💳 Stripe Payment System
 
-Implemented payment workflows using **Stripe Payment Intents and webhooks**.
+Built payment workflows using **Stripe Payment Intents and webhooks**.
 
-The solution included:
+The implementation included:
 
 * Payment processing
 * Payment status handling
@@ -146,7 +91,7 @@ The solution included:
 * Receipt generation
 * Background processing
 
-Moved non-critical webhook processing into background workflows to avoid blocking the main request flow.
+Moved non-critical webhook processing into background workflows to keep the main request flow responsive.
 
 ---
 
@@ -163,42 +108,37 @@ Areas included:
 * API response optimization
 * Multi-level search
 
-The goal was to reduce expensive database operations and improve API response times.
-
 ---
 
-## 🔔 AWS Notifications & Authentication
+## ☁️ AWS Notifications & Authentication
 
-Worked with AWS services for authentication and notification workflows.
+Worked with AWS services for authentication, notifications and scheduled workflows.
 
 Technologies included:
 
 * Amazon Cognito
 * AWS Lambda
 * AWS SNS
-* CloudWatch
+* AWS CloudWatch
 * Scheduled jobs
-
-Used serverless workflows for automated notification and rule-based processing.
 
 ---
 
-# 🧩 Featured Projects
+# 🚀 Featured Projects
 
 ## 📋 Changelog App
 
 **AI-powered changelog generator that converts GitHub activity into release notes.**
 
-🔗 [View Repository](https://github.com/thanseerka/changelog-app)
+🔗 **[View Repository](https://github.com/thanseerka/changelog-app)**
 
-**Stack:**
-Next.js · Supabase · GitHub API · LLM APIs
+**Stack:** Next.js · Supabase · GitHub API · LLM APIs
 
 ### Highlights
 
 * GitHub OAuth integration
 * Repository synchronization
-* GitHub commit/activity processing
+* GitHub activity processing
 * AI-generated release notes
 * Supabase database
 * Next.js application
@@ -209,10 +149,9 @@ Next.js · Supabase · GitHub API · LLM APIs
 
 Practical implementation of Kafka producers and consumers using Node.js.
 
-🔗 [View Repository](https://github.com/thanseerka/nodejs-kafka-learning)
+🔗 **[View Repository](https://github.com/thanseerka/nodejs-kafka-learning)**
 
-**Stack:**
-Node.js · Kafka
+**Stack:** Node.js · Kafka
 
 ### Covers
 
@@ -227,12 +166,11 @@ Node.js · Kafka
 
 ## 🔐 Angular + Node Authentication
 
-JWT-based authentication example using Angular and Node.js.
+JWT-based authentication implementation using Angular and Node.js.
 
-🔗 [View Repository](https://github.com/thanseerka/angular-node-auth)
+🔗 **[View Repository](https://github.com/thanseerka/angular-node-auth)**
 
-**Stack:**
-Angular · Node.js · TypeScript · JWT
+**Stack:** Angular · Node.js · TypeScript · JWT
 
 ### Covers
 
@@ -244,9 +182,9 @@ Angular · Node.js · TypeScript · JWT
 
 ---
 
-# 🛠️ Current Projects
+# 🛠️ Building Next
 
-I'm currently building practical backend examples around:
+I'm currently working on practical backend projects focused on production patterns.
 
 ### NestJS Production Starter
 
@@ -254,8 +192,8 @@ I'm currently building practical backend examples around:
 * PostgreSQL
 * JWT
 * RBAC
-* Swagger/OpenAPI
 * Redis
+* Swagger/OpenAPI
 * Docker
 * CI/CD
 
@@ -273,7 +211,7 @@ I'm currently building practical backend examples around:
 * Kafka
 * Event-driven architecture
 * Docker Compose
-* Kubernetes manifests
+* Kubernetes
 * Retry and failure handling
 
 ### AI Backend
@@ -283,22 +221,19 @@ I'm currently building practical backend examples around:
 * Streaming responses
 * Conversation APIs
 * Rate limiting
-* AI summarization and content generation
+* AI summarization
+* Content generation
 
 ---
 
 # 🧰 Tech Stack
-
-### Languages
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
 ### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge\&logo=nestjs\&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 
 ### Databases
 
@@ -312,13 +247,10 @@ I'm currently building practical backend examples around:
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge\&logo=apachekafka\&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge\&logo=rabbitmq\&logoColor=white)
 
-### Cloud
+### Cloud & DevOps
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
-
-### DevOps
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
 
@@ -328,7 +260,7 @@ I'm currently building practical backend examples around:
 
 ### AI
 
-![OpenAI](https://img.shields.io/badge/LLM_APIs-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+![LLM APIs](https://img.shields.io/badge/LLM_APIs-412991?style=for-the-badge\&logo=openai\&logoColor=white)
 
 ### Frontend
 
@@ -340,39 +272,37 @@ I'm currently building practical backend examples around:
 
 # 🤝 Freelance & Contract Work
 
-I'm available for **fixed-scope projects, part-time engagements and backend consulting**.
+I'm available for **fixed-scope projects, part-time engagements, and backend consulting**.
 
-### I can help with:
+### 🔧 Backend Development
 
-**🔧 Backend Development**
+Build new APIs, backend services, or microservices using Node.js / NestJS.
 
-Build new APIs, backend services or microservices using Node.js / NestJS.
+### 💳 Payment Integration
 
-**💳 Payment Integration**
+Implement or troubleshoot Stripe payment flows, webhooks, refunds, and payment workflows.
 
-Implement or troubleshoot Stripe payment flows, webhooks, refunds and payment-related workflows.
+### ⚡ Performance Optimization
 
-**⚡ Performance Optimization**
+Investigate slow APIs, database bottlenecks, memory issues, and production performance problems.
 
-Investigate slow APIs, database bottlenecks, memory issues and production performance problems.
+### ☁️ Cloud & DevOps
 
-**☁️ Cloud & DevOps**
+Dockerize applications, configure CI/CD, and deploy backend services to AWS, Azure, or Kubernetes.
 
-Dockerize applications, configure CI/CD and deploy backend services to AWS, Azure or Kubernetes.
+### 📨 Event-Driven Architecture
 
-**📨 Event-Driven Systems**
+Introduce Kafka, RabbitMQ, queues, and background processing into existing applications.
 
-Introduce Kafka, RabbitMQ or background processing into an existing application.
+### 🤖 AI Integration
 
-**🤖 AI Integration**
+Add LLM-powered features such as summarization, chat, content generation, and AI workflows.
 
-Add AI-powered features such as summarization, chat, content generation and LLM workflows.
-
-**📚 API Documentation**
+### 📚 API Documentation
 
 Design and document APIs using Swagger / OpenAPI.
 
-**🧑‍💻 Backend Development Support**
+### 🧑‍💻 Backend Engineering Support
 
 Help startups and agencies with additional backend engineering capacity for ongoing projects.
 
@@ -380,9 +310,9 @@ Help startups and agencies with additional backend engineering capacity for ongo
 
 # 📫 Let's Work Together
 
-Have a backend project that needs to be **built, fixed, optimized or scaled?**
+Have a backend project that needs to be **built, fixed, optimized, or scaled?**
 
-Send me a short description of:
+Send me:
 
 * What you're building
 * Current technology stack
@@ -393,10 +323,10 @@ Send me a short description of:
 
 🔗 **[LinkedIn](https://www.linkedin.com/in/thanseerka)**
 
-I'm happy to discuss the architecture, implementation approach and estimate.
+I'm happy to discuss the architecture, implementation approach, and estimate.
 
 ---
 
 <p align="center">
-  <i>Building reliable backends, scalable services and practical AI integrations.</i>
+  <i>Building reliable backends, scalable services, and practical AI integrations.</i>
 </p>
